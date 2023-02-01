@@ -1,0 +1,3 @@
+ROBOCOPY W:\work W:\BACKUP-work /MIR /XO /XX
+ROBOCOPY W:\work S:\BACKUP-work /MIR /XO /XX
+ROBOCOPY W:\work C:\BACKUP-work /MIR /XO /XX
